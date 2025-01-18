@@ -2,7 +2,7 @@
 
 A modern, user-friendly desktop application for converting MP4 videos to MP3 audio files. Built with Python and PyQt5, this application provides an efficient way to extract and convert audio from video files.
 
-![MP4 to MP3 Converter](screenshot.png)
+![MP4 to MP3 Converter]
 
 ## Features
 

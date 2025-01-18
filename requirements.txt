@@ -1,0 +1,9 @@
+PyQt5==5.15.11
+moviepy==1.0.3
+numpy>=1.26.2
+decorator>=4.4.2
+imageio>=2.36.1
+imageio-ffmpeg>=0.6.0
+proglog>=0.1.10
+tqdm>=4.66.1
+requests>=2.31.0
