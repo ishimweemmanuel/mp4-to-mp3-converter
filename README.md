@@ -21,7 +21,7 @@ A modern, user-friendly desktop application for converting MP4 videos to MP3 aud
 
 1. Clone this repository or download the source code:
 ```bash
-git clone https://github.com/yourusername/mp4-to-mp3-converter.git
+git clone https://github.com/ishimweemmanuel/mp4-to-mp3-converter.git
 cd mp4-to-mp3-converter
 ```
 
@@ -56,7 +56,7 @@ python mp4_to_mp3_converter.py
 
 5. Converted MP3 files will be saved in:
 ```
-C:\Users\ISHIMWEEmmanuel\Music\converted
+C:\Users\username\Music\converted
 ```
 
 ## Requirements
